@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="estilo.css"> 
-        <title>Livro PHP Poo</title>
+        <title>Herança PHP Poo</title>
     </head>
     <body>
         <div id = "interface">
